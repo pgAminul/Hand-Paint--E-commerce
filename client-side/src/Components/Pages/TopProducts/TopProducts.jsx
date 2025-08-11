@@ -1,4 +1,3 @@
-import React from "react";
 import { FiShoppingCart, FiEye } from "react-icons/fi";
 import Title from "../../Layout/ReusableComponents/Title";
 import { Link } from "react-router";
